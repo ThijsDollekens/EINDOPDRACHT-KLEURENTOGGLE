@@ -1,0 +1,71 @@
+.grey-background{
+    background-color: grey;
+}
+.red-background {
+    background-color: red;
+}
+
+.yellow-background {
+    background-color: yellow;
+}
+
+.purple-background {
+    background-color: purple;
+   
+}
+
+.green-background {
+    background-color: green;
+}
+
+.list{
+    list-style: none;
+}
+
+.list button{
+    width: 20%;
+    content: 20%;
+}
+
+#button1{
+    background-color: grey;
+}
+
+#button2{
+    background-color: red;
+}
+
+#button3{
+    background-color: yellow;
+}
+
+#button4{
+    background-color: purple;
+}
+
+#button5{
+    background-color: green;
+}
+
+
+
+/*Alles wat ontbreekt
+.list li{
+    background-color: purple;
+}
+
+.body-class ul{
+    background-color: purple;
+}
+
+.img{
+    background-color: purple;
+}
+
+.body-class{
+    background-color: purple;
+}
+
+.a {
+    background-color: purple;
+}*/
